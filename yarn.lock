@@ -114,6 +114,13 @@
   dependencies:
     "@codemirror/state" "^0.19.0"
 
+"@codemirror/rangeset@^0.19.1":
+  version "0.19.1"
+  resolved "https://registry.yarnpkg.com/@codemirror/rangeset/-/rangeset-0.19.1.tgz#03ab6f93fb60d9ba98f810b98ed9471cba1e3854"
+  integrity sha512-WaKTEw8JB/3QFlQzpdgRoklopcWvG8O/Xp+rxxOfFKYTaeaejpY/tjpyBBg+Ea65Ka3m7+pPp9d5j/oR2rd9NA==
+  dependencies:
+    "@codemirror/state" "^0.19.0"
+
 "@codemirror/state@^0.19.0", "@codemirror/state@^0.19.1":
   version "0.19.1"
   resolved "https://registry.yarnpkg.com/@codemirror/state/-/state-0.19.1.tgz#cf0ee90b4fb45c295f8bbe2d6196d890ec81d92a"
